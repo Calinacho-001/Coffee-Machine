@@ -112,7 +112,7 @@ def coffee_machine():
                          "              ---Pennies = 0.01$\n"
                   "- To select the desired coffee, type the number of the option or the name of the coffee type.\n"
                   "- If the machine is out of ingridients, please contact the administrator.\n"
-                  "- To print a report of the avaialble ingridients inside the machine, press 4 or type report.\n"
+                  "- To print a report of the available ingridients inside the machine, press 4 or type report.\n"
                   "- To add ingridients to the machine, contact the administrator for instructions."))
 
         elif choice in ["4", "report"]:
